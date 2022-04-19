@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Checkpoint 01</string>
+    <string name="label_adicionar">Digite os dados do ingresso</string>
+    <string name="et_nome_adicionar">Nome do torcedor</string>
+    <string name="et_timeC_adicionar">Time da casa</string>
+    <string name="et_timeV_adicionar">Time visitante</string>
+    <string name="et_campeonato_adicionar">Campeonato da partida</string>
+    <string name="et_estadio_adicionar">Estádio da partida</string>
+    <string name="et_setor_adicionar">Setor da arquibancada</string>
+    <string name="et_valor_adicionar">Valor do ingresso</string>
+    <string name="btn_adicionar">Adicionar</string>
+    <string name="tv_arquibancada_visualizar">Setor da arquibancada:\t</string>
+    <string name="tv_nome_visualizar">Fulano de Sá</string>
+    <string name="tv_campeonato">Campeonato Estadual</string>
+    <string name="tv_timeC">Time da casa</string>
+    <string name="tv_divisor">x</string>
+    <string name="tv_timeV">Time visitante</string>
+    <string name="tv_valor">79,90</string>
+    <string name="tv_cifrao">R$\t</string>
+    <string name="tv_setor">A1</string>
+    <string name="tv_estadio">Estádio</string>
+    <string name="tv_setor_item">\t(setor A1)</string>
+</resources>
