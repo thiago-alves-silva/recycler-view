@@ -3,7 +3,6 @@ package com.fiap.recyclerview
 import android.os.Bundle
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import androidx.cardview.widget.CardView
 import com.fiap.recyclerview.model.Ingresso
 
 class VisualizarActivity : AppCompatActivity() {
